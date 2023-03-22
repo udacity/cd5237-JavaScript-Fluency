@@ -1,3 +1,4 @@
+/* Booleans Examples */
 const studentName = "John";
 const haveEnrolledInCourse = true;
 const haveCompletedTheCourse = false;

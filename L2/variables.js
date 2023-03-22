@@ -1,8 +1,4 @@
 /*
-Practice: One Awesome Message
- */
-
-/*
 Code REQUIREMENTS
 1. Create the following variables:
  - firstName
@@ -27,4 +23,4 @@ Example:
  */
  
  
-/* YOUR CODE HERE*/
+/* YOUR CODE BELOW HERE*/
